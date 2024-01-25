@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "oNlJ1a846o07IlJ/MS8qrm2ezILqRJbIcNWo7iF0vK06ylW6Cqttc7FCVg37u0GHajJKOiUJjPd6m9/Ry+EA3A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tomas\\OneDrive\\Escritorio\\Programar\\repoNet\\AnotadorPuntos\\AnotadorPuntos.iOS\\AnotadorPuntos.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tomas\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\tomas\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\tomas\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}

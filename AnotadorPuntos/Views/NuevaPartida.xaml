@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AnotadorPuntos.Views.NuevaPartida">
+
+    <StackLayout>
+        <Entry Placeholder="Nombre de la Partida" x:Name="NombreEntry" />
+        <Entry Placeholder="Participantes (separados por coma)" x:Name="ParticipantesEntry" />
+
+        <Label Text="Tipo de Puntuación Límite" />
+        <Picker x:Name="TipoPuntuacionPicker">
+            <Picker.Items>
+                <x:String>Puntuación para ganar</x:String>
+                <x:String>Puntuación para participantes eliminados</x:String>
+                <x:String>Puntuación límite para perder</x:String>
+            </Picker.Items>
+        </Picker>
+
+        <Entry Placeholder="Número entero adicional" x:Name="NumeroEnteroEntry" />
+
+        <Button Text="Crear Partida" Clicked="OnCrearPartidaClicked" />
+    </StackLayout>
+
+</ContentPage>

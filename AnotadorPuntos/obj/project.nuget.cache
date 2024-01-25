@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "1pxESSkKl7hiQcBhAdvgkdI/fCgaNleQuqR+Fa3YTiWlaPJexN1djzeViDW+wj2Bs+jad0OBxAB3/i8e43R7MA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tomas\\OneDrive\\Escritorio\\Programar\\repoNet\\AnotadorPuntos\\AnotadorPuntos\\AnotadorPuntos.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tomas\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\tomas\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\tomas\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\tomas\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\tomas\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}
